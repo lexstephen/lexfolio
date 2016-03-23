@@ -1,0 +1,23 @@
+.lexcontent img {
+    width: 150px;
+    border-radius: 50%;
+    border: 1px #336699 solid;
+    float: right;
+}
+
+.panel, .label {
+    border-radius: 4px;
+}
+
+.label { 
+    font-weight: normal; 
+}
+.label-info {
+    font-weight: bold;
+}
+
+.noround img { 
+    border-radius: 0;
+    margin: 10px;
+    float: none;
+}
