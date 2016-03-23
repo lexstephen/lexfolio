@@ -104,6 +104,7 @@
                               <span class="label label-info">CSS</span> 
                                 <span class="label label-success">Bootstrap</span> 
                                 <span class="label label-success">LESS</span> 
+                              <span class="label label-info">XML</span> 
                               <span class="label label-info">C#</span> 
                                 <span class="label label-success">ASP.NET</span> 
                               <span class="label label-info">SQL</span> 
@@ -124,6 +125,7 @@
                                 <span class="label label-success">JDeveloper</span>
                                 <span class="label label-success">NetBeans</span>
                                 <span class="label label-success">PHPStorm</span>
+                                <span class="label label-success">Android Studio</span>
                                 <span class="label label-success">XCode</span>
                                 <span class="label label-success">Notepad</span>
                                 
@@ -145,6 +147,8 @@
                               <span class="label label-info">Analysis</span>
                               <span class="label label-success">System Analysis</span> 
                               <span class="label label-success">System Design</span> 
+                              <span class="label label-success">UML</span> 
+                              <span class="label label-success">Business Intelligence</span> 
                             </div>                          
                         </div>
                     </div>
